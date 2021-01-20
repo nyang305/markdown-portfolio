@@ -1,0 +1,5 @@
+- books
+- movies
+- video games
+- fashion
+- design

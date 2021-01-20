@@ -1,0 +1,6 @@
+- Proficient in **Microsoft Office** and **Google Suite**
+- **Virtual Assitance**
+- *Customer Service* Skills
+- *Medical* Experience
+- **CPR Trained**
+- Experience in **Data Entry** and **Data Collection**
