@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Proficient in **Microsoft Office** and **Google Suite**
+- *Customer Service* Skills
+- *Medical* Experience
+- **CPR Trained**
+- Experience in **Data Entry** and **Data Collection**
